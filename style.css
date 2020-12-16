@@ -1,10 +1,12 @@
 *{
     font-family: 'JetBrains Mono', monospace;
+    margin:auto;
     
     
 }
 body{
     background-color:#CCCCFF;
+    height:90vh;
 }
 
 main{
@@ -80,11 +82,20 @@ img{
 }
 footer{
     display: flex;
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     justify-content: center;
     margin-bottom:10px;
+    font-size:10px;
+    margin-top:2px;
+    position:fixed;
     
+}
+.favicon{
+    height:10px;
+    width:10px;
+}
+.socials{
+    align-items:left;
 }

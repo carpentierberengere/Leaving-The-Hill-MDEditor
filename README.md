@@ -10,4 +10,8 @@ A webpage splitted vertically in half. On the left side a **< textarea >** where
 
 src :arrow_right: [instructions](https://github.com/becodeorg/bxl-hopper-1-25/tree/master/The%20Hill/projects/99.leaving_the_hills)
 
-link to project :arrow_right: click [**HERE**](/)
+link to project :arrow_right: click [**HERE**](carpentierberengere.github.io/leaving-the-hill-mdeditor/)  
+
+# Preview
+
+![preview-editor](./img/preview.png)
